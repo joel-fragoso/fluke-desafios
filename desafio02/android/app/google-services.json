@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263367893270",
+    "firebase_url": "https://fluke-desafio02.firebaseio.com",
+    "project_id": "fluke-desafio02",
+    "storage_bucket": "fluke-desafio02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263367893270:android:94e46ead15b8a328453037",
+        "android_client_info": {
+          "package_name": "com.desafio02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263367893270-41pvvfbjejj8epvds1v7eovne3pmfk92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRtnYjGf9aE12cI4ksxcJRuD2L-Wr7fu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263367893270-41pvvfbjejj8epvds1v7eovne3pmfk92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
