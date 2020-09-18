@@ -8,6 +8,8 @@ target 'desafio02' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'RNFirebase', :path => '../node_modules/react-native-firebase'
+
   target 'desafio02Tests' do
     inherit! :complete
     # Pods for testing
